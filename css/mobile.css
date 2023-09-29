@@ -14,18 +14,18 @@
 }
 
 
-.slideMenu__item{
+.slide-menu__item{
     margin-right:16px;
 }
-.slideMenu__item:last-of-type{
+.slide-menu__item:last-of-type{
     margin-right: 0;
 }
 
-.slideMenu__item--active{
+.slide-menu__item--active{
     margin: 0 16px;
 }
 
-.body__readMore{
+.body__read-more{
     margin: 16px;
 }
 
@@ -38,7 +38,7 @@
 /*    right: 0;*/
 /*}*/
 
-.body__slideMenu::after{
+.body__slide-menu::after{
     content: "";
     width: 24px;
     height: 40px;

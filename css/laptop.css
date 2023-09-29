@@ -20,14 +20,14 @@
     padding-top: 42px;
 }
 
-.body__slideMenu::after{
+.body__slide-menu::after{
     display: none;
 }
 .title__column:last-of-type{
     margin-right: 35px;
 }
 
-.body__slideMenu{
+.body__slide-menu{
     justify-content: space-between;
     max-width: 1063px;
     flex-shrink: 0;
